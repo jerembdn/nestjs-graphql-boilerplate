@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tonightpass.com">
+  <a href="https://github.com/jerembdn/nestjs-graphql-boilerplate/generate">
     <h1 align="center">
       NestJS GraphQL API Boilerplate
     </h1>
@@ -10,11 +10,14 @@
   <a aria-label="onRuntime Studio" href="https://onruntime.com" target="_blank">
     <img src="https://img.shields.io/badge/MADE%20BY%20ONRUNTIME-fff.svg?style=for-the-badge&labelColor=000">
   </a>
-  <a aria-label="NPM version" href="https://www.npmjs.com/package/@tonightpass/nestjs-mailjet" target="_blank">
-    <img alt="" src="https://img.shields.io/github/workflow/status/jerembdn/nestjs-graphql-boilerplate/checks?style=for-the-badge&labelColor=000000">
+  <a aria-label="Checks build status" href="https://github.com/jerembdn/nestjs-graphql-boilerplate/actions/workflows/checks.yml" target="_blank">
+    <img alt="" src="https://img.shields.io/github/workflow/status/jerembdn/nestjs-graphql-boilerplate/Checks?style=for-the-badge&labelColor=000000">
   </a>
   <a aria-label="License" href="https://github.com/tonightpass/nestjs-mailjet/blob/master/LICENSE" target="_blank">
     <img alt="" src="https://img.shields.io/npm/l/next.svg?style=for-the-badge&labelColor=000000">
+  </a>
+  <a aria-label="Using template" href="https://github.com/jerembdn/nestjs-graphql-boilerplate/generate" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/USE%20THIS%20TEMPLATE-3cb043.svg?style=for-the-badge&labelColor=000">
   </a>
 </p>
 
